@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    padding: 0 15px;
+    display: flex;
+
+    align-items: center;
+    background-color: aquamarine;
+    justify-content: space-between;
+}
+
+.img{
+    width: 75px;
+
+}
+.navitems{
+    
+}
+.navitems>ul{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+
+
+
+.resturentCard{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+
+}
+
+.card{
+    border: 3px solid rgb(160, 157, 157);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.shimmer-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+}
+.shimmer-cards{
+    margin: 5px;
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+} */
